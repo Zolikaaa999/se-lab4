@@ -1,4 +1,4 @@
 #Váltakozó tüzelés
 GT4500,1,0,1,0 #Primary-ba 1, Secondary-ba 1 torpedó
 TORPEDO,SINGLE
-#TORPEDO,SINGLE
+TORPEDO,SINGLE

@@ -1,0 +1,3 @@
+#Primary löveg tüzelésee(all)
+GT4500,0,0,1,0 #Primary-ba 0, Secondary-ba legalább 1 torpedó
+TORPEDO,ALL

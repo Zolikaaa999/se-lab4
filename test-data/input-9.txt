@@ -1,0 +1,4 @@
+#Váltakozó tüzelés
+GT4500,2,0,0,0 #Primary-ba legalabb 2, Secondary-ba 0 torpedó
+TORPEDO,SINGLE
+TORPEDO,SINGLE
