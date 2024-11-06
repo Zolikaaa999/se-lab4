@@ -1,0 +1,3 @@
+#Mindkét löveg üres (single)
+GT4500,0,0,0,0 #Mindkét löveg-ben 0 torpedó
+TORPEDO,SINGLE
